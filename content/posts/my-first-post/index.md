@@ -1,6 +1,6 @@
 ---
-date: 2025-03-16T11:26:50+09:00
 title: 個人ブログを始めました！
+date: 2025-03-16
 draft: false
 tags:
 - HUGO
