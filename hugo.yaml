@@ -1,0 +1,9 @@
+baseURL: https://example.org/
+theme: PaperMod
+defaultContentLanguage: ja
+languages:
+  ja:
+    languageCode: ja-JP
+    languageName: 日本語
+    timeZone: Asia/Tokyo
+    title: キョのリファクタリング
