@@ -7,6 +7,12 @@ languages:
     languageName: 日本語
     timeZone: Asia/Tokyo
     title: キョのリファクタリング
+markup:
+  goldmark:
+    renderer:
+      hardWraps: true
+  highlight:
+    noClasses: false
 params:
   env: production
   defaultTheme: auto
