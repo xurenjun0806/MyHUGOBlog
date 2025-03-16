@@ -23,6 +23,10 @@ params:
   ShowAllPagesInArchive: true
   ShowPageNums: true
   ShowToc: true
+  assets:
+    favicon: "assets/favicon.ico"
+    favicon16x16: "assets/favicon.ico" 
+    favicon32x32: "assets/favicon.ico" 
   homeInfoParams:
     Title: キョのリファクタリング
     Content: |
