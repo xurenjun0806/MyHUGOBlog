@@ -7,3 +7,30 @@ languages:
     languageName: 日本語
     timeZone: Asia/Tokyo
     title: キョのリファクタリング
+params:
+  env: production
+  defaultTheme: auto
+  ShowReadingTime: true
+  displayFullLangName: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+  ShowAllPagesInArchive: true
+  ShowPageNums: true
+  ShowToc: true
+  homeInfoParams:
+    Title: キョのリファクタリング
+    Content: |
+      こんにちは、キョです！
+
+      このブログでは、僕自身をリファクタリング（改善・成長）するために、
+      日々の学びや経験を記録しています。
+
+      📌 記録すること
+      - ・ エンジニアとしての学び 💻
+      - ・ 日常生活の気づきや挑戦 ✨
+      
+      試行錯誤しながら成長していく過程を、ぜひ一緒に楽しんでください！
+
+  socialIcons: # optional
+    - name: "github"
+      url: "https://github.com/xurenjun0806"
