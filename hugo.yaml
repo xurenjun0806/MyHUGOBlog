@@ -24,10 +24,10 @@ params:
   ShowPageNums: true
   ShowToc: true
   assets:
-    favicon: "assets/favicon.ico"
-    favicon16x16: "assets/img/favicon-16x16.png" 
-    favicon32x32: "assets/img/favicon-32x32.png" 
-    apple_touch_icon: "assets/img/apple-touch-icon.png"
+    favicon: "favicon.ico"
+    favicon16x16: "img/favicon-16x16.png" 
+    favicon32x32: "img/favicon-32x32.png" 
+    apple_touch_icon: "img/apple-touch-icon.png"
   homeInfoParams:
     Title: キョのリファクタリング
     Content: |
